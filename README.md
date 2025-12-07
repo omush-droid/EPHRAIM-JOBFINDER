@@ -1,6 +1,9 @@
 # Job Finder API
 
-A Django REST API for job posting and application management.
+JobFinder API is a backend system designed to power a job searching and job posting platform.
+It connects job seekers with employers by providing RESTful endpoints for authentication, job listings, job applications, and filtering/search.
+
+This API is built using Django and Django REST Framework (DRF) and is designed to be used by a website or mobile application.
 
 ## Features
 
